@@ -16,7 +16,7 @@ import cachetools
 from telegram import InputFile
 
 # Telegram API key
-bot_token = '6314931896:AAFGqVLXkYXYqakNdDhCo4b0vXNveYGL7oQ'
+bot_token = 'ENTER_YOUR_BOTTOKEN'
 
 # Google Sheets credentials
 scope = ["https://spreadsheets.google.com/feeds",
